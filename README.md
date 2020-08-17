@@ -16,19 +16,19 @@
 -------
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 43 Contributions in year 2020
+> 🏆 43 Contributions in the year 2020
  > 
-> 📦 Used 136 Bytes in GitHub's Storage 
+> 📦 137 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 2 Public repositories
  > 
-> 🔑 1 Owned Private Repository 
+> 🔑 1 Private repository 
  > 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    6 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
@@ -37,7 +37,7 @@
 🌙 Night      13 commits     ████████░░░░░░░░░░░░░░░░░   35.14%
 
 ```
-📅 **I'm Most Productive on Tuesdays** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       13 commits     ████████░░░░░░░░░░░░░░░░░   35.14% 
@@ -51,10 +51,10 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-💬 Languages: 
+💬 Programming Languages: 
 PHP                      1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   33.84% 
 Vue.js                   1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   29.72% 
 JavaScript               1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.15% 
@@ -63,7 +63,7 @@ JSON                     16 mins             █░░░░░░░░░░�
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               2 repos             █████████████████████████   100.0%
