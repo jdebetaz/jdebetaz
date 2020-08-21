@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 64 Contributions in the year 2020
+> 🏆 64 Contributions in the Year 2020
  > 
 > 📦 7.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public repositories
+> 📜 5 Public Repositories
  > 
-> 🔑 1 Private repository 
+> 🔑 1 Private Repository 
  > 
 **I'm a Night 🦉** 
 
@@ -51,7 +51,7 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
