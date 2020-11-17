@@ -55,7 +55,7 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               43 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
