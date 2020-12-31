@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 66 Contributions in the Year 2020
+> 🏆 70 Contributions in the Year 2020
  > 
-> 📦 7.0 kB Used in Github's Storage 
+> 📦 7.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 2 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -62,8 +62,8 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.0% 
-PHP                      2 repos             ████████████░░░░░░░░░░░░░   50.0%
+JavaScript               3 repos             ███████████████░░░░░░░░░░   60.0% 
+PHP                      2 repos             ██████████░░░░░░░░░░░░░░░   40.0%
 
 ```
 
