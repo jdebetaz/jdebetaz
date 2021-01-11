@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 6 Contributions in the Year 2021
  > 
 > 📦 7.1 kB Used in Github's Storage 
  > 
@@ -26,7 +26,7 @@
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -62,8 +62,8 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               3 repos             ███████████████░░░░░░░░░░   60.0% 
-PHP                      2 repos             ██████████░░░░░░░░░░░░░░░   40.0%
+JavaScript               4 repos             ████████████████░░░░░░░░░   66.67% 
+PHP                      2 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
