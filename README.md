@@ -20,7 +20,7 @@
 
 > 🏆 7 Contributions in the Year 2021
  > 
-> 📦 7.1 kB Used in Github's Storage 
+> 📦 7.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -55,7 +55,7 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              █████████████████████████   100.0%
 
 ```
 
