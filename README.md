@@ -16,11 +16,11 @@
 -------
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 67 Contributions in the Year 2021
  > 
-> 📦 7.4 kB Used in Github's Storage 
+> 📦 7.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -74,5 +74,5 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
