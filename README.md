@@ -62,13 +62,12 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             ██████████████░░░░░░░░░░░   57.14% 
-PHP                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+JavaScript               4 repos             ████████████████░░░░░░░░░   66.67% 
+PHP                      2 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
 
 
- Last Updated on 23/10/2021
+ Last Updated on 24/10/2021
 <!--END_SECTION:waka-->
