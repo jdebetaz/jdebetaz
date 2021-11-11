@@ -26,3 +26,4 @@ jobs:
           COMMIT_BY_ME: "True"
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_UPDATED_DATE: "False"
