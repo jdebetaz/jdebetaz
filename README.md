@@ -11,6 +11,9 @@
   <a href="https://www.instagram.com/jdebetaz/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
+  <a href="https://wakatime.com/@5c95ead1-71ee-4ecc-9a32-6c2b293dd432">
+    <img src="https://wakatime.com/badge/user/5c95ead1-71ee-4ecc-9a32-6c2b293dd432.svg?style=for-the-badge" alt="Total time coded since Aug 23 2019" />
+  </a>
 </p>
 
 -------
