@@ -17,11 +17,11 @@
 
 -------
 
-### 🙋🏻‍♂️ About Me
+**🙋🏻‍♂️ About Me** 
 
 <p>I wear many hats depending on what is required of me but, I am first and foremost, a passionate learner, a full stack developer.</p>
 
-### 👨🏻‍💻 Tech Stack
+**👨🏻‍💻 Tech Stack** 
 
 <p>Here are a few things I've picked up along my learning journey.</p>
 
