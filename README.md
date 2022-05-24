@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 247 Contributions in the Year 2022
+> 🏆 248 Contributions in the Year 2022
  > 
 > 📦 108.0 kB Used in GitHub's Storage 
  > 
@@ -69,7 +69,9 @@ Sunday       10 commits     ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      5 mins              █████████████████████████   100.0% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Twig                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
