@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 318 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 38.1 kB Used in GitHub's Storage 
  > 
