@@ -22,7 +22,7 @@
 
 <p>Here are a few things I've picked up along my learning journey.</p>
 
-- 🗣 PHP 𒑰 JavaScript 𒑰 TypeScript 𒑰 Python
+- 🗣 PHP 𒑰 JavaScript 𒑰 TypeScript 𒑰 Python 𒑰 Golang
 - 🎒 NodeJS 𒑰 Express 𒑰 Socket.IO 𒑰 Symfony 𒑰 Laravel 𒑰 ReactJS 𒑰 VueJS
 - ♽ Docker
 
