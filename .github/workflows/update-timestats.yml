@@ -1,6 +1,11 @@
 name: wakatime-stats
 
 on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "Who to greet"
+        default: "World"
   schedule:
     - cron: '0 3 * * *'
 jobs:
