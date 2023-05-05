@@ -30,4 +30,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
-          SYMBOL_VERSION: 2
+          SYMBOL_VERSION: 1
