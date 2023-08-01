@@ -23,7 +23,7 @@
 <p>Here are a few things I've picked up along my learning journey.</p>
 
 - 🗣 PHP 𒑰 JavaScript 𒑰 TypeScript 𒑰 Python 𒑰 Golang
-- 🎒 NodeJS 𒑰 Express 𒑰 Socket.IO 𒑰 Symfony 𒑰 Laravel 𒑰 ReactJS 𒑰 VueJS
+- 🎒 NodeJS 𒑰 Express 𒑰 Socket.IO 𒑰 Symfony 𒑰 Laravel 𒑰 ReactJS 𒑰 VueJS 𒑰 OWL
 - ♽ Docker
 
 <!--START_SECTION:waka-->
