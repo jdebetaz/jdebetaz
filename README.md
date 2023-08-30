@@ -22,9 +22,9 @@
 
 <p>Here are a few things I've picked up along my learning journey.</p>
 
-- 🗣 PHP 𒑰 JavaScript 𒑰 TypeScript 𒑰 Python 𒑰 Golang
-- 🎒 NodeJS 𒑰 Express 𒑰 Socket.IO 𒑰 Symfony 𒑰 Laravel 𒑰 ReactJS 𒑰 VueJS 𒑰 OWL
-- ♽ Docker
+- :mega: PHP 𒑰 JavaScript 𒑰 TypeScript 𒑰 Python 𒑰 Golang
+- :school_satchel: NodeJS 𒑰 Express 𒑰 Socket.IO 𒑰 Symfony 𒑰 Laravel 𒑰 ReactJS 𒑰 VueJS 𒑰 OWL
+- :wrench: Ansible 𒑰 Docker 𒑰 Odoo
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
