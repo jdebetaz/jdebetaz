@@ -23,8 +23,8 @@
 <p>Here are a few things I've picked up along my learning journey.</p>
 
 - :mega: PHP ┊ JavaScript ┊ TypeScript ┊ Python ┊ Golang
-- :school_satchel: NodeJS ┊ Express ┊ Socket.IO ┊ Symfony ┊ Laravel ┊ ReactJS ┊ VueJS ┊ OWL
-- :wrench: Ansible ┊ Docker ┊ Odoo
+- :school_satchel: NodeJS ┊ Express ┊ Socket.IO ┊ Symfony ┊ Laravel ┊ AdonisJS ┊ ReactJS ┊ VueJS ┊ OWL
+- :wrench: Ansible ┊ Terraform ┊ Docker ┊ Odoo
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
